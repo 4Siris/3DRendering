@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example.model.Point;
+
 public class Matrix3V3 {
     double[] values;
     public Matrix3V3(double[] values) {
